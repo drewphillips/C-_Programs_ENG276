@@ -7,7 +7,7 @@ int main()
     int length;
     int width;
     
-    cout << "Dean Phillips" << endl;
+    cout << "Drew Phillips" << endl;
     cout << "1/18/24" << endl;
     cout << "ENG 276" << endl;
     cout <<"Analyze area and perimeter of a basketball court." << endl;
