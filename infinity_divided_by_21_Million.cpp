@@ -17,7 +17,7 @@ int main()
 	    cout << "Buy more Bitcoin!" << endl;
 	}
     
-    else if (bitcoin >= 1.0) {
+    else if (bitcoin > 0.99999999) {
 	    cout << "We made it, time to retire in Montana!" << endl;
 	}
 	
