@@ -13,11 +13,11 @@ int main()
     cout << "Enter in the amount of BTC you think you have..." << endl;
     cin >> bitcoin;
     
-    if (bitcoin < 0.99999999) {
+    if (bitcoin < 0.999999999) {
 	    cout << "Buy more Bitcoin!" << endl;
 	}
     
-    else if (bitcoin > 0.99999999) {
+    else if (bitcoin > 0.999999999) {
 	    cout << "We made it, time to retire in Montana!" << endl;
 	}
 	
